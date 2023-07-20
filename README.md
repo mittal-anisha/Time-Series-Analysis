@@ -11,7 +11,7 @@ This project studies two data sets available in the TSA Package.
 
 #### Data 1: Prescription data: This is the monthly U.S. average prescription costs for 68 months from August 1986.
 
-Augmented Dickey-Fuller test and F statistics ( Self calculate phi3) are compared to test whether the time series has a unit root.
+Augmented Dickey-Fuller test and F statistics (Equivalent to self calculated phi3) are compared to test whether the time series has a unit root.
 
 #### Data 2: Beer Sales: monthly beer sales in millions of barrels, 01/1975 - 12/1990.
 
