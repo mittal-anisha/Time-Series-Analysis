@@ -23,13 +23,13 @@ The project studies the Google dataset available in the TSA package. Daily retur
 Series is tested for heteroskedasticity. Step-by-step process of fitting an anARMA-GARCH model.
 
 ### Packages used
-TSA
-forecast
-lmtest
-fGarch
-urca
-tseries
-dplyr
+TSA,
+forecast,
+lmtest,
+fGarch,
+urca,
+tseries,
+dplyr, 
 ggplot2
 
 #### Note: R is a case-sensitive language.
