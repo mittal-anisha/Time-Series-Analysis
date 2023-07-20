@@ -20,7 +20,7 @@ The trend is estimated by smoothing it and the order for moving average smoother
 ## Project 3
 The project studies the Google dataset available in the TSA package. Daily returns of the Google stock from 08/20/04 - 09/13/06.
 
-Series is tested for heteroskedasticity. Step-by-step process of fitting an anARMA-GARCH model.
+Series is tested for heteroskedasticity. Step-by-step process of fitting an ARMA-GARCH model.
 
 ### Packages used
 TSA,
